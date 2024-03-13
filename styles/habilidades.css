@@ -24,7 +24,7 @@ h2{
 }
 
 .card {
-    background: linear-gradient(180deg, #ff9f32 0%, #e1a328 0%, rgb(255, 193, 69) 100%);
+    background: linear-gradient(180deg, #000000 0%, #292929 0%, rgb(65, 65, 65) 100%);
     border: solid 2px #fff;
     width: 20vw;
     height: auto;

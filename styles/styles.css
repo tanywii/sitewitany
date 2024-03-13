@@ -10,7 +10,7 @@
 main {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(90deg, rgb(218, 118, 64) 0%, rgb(244, 177, 90) 32%, rgb(255, 210, 150) 67%, rgb(255, 219, 172) 97%);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(50, 50, 50) 32%, rgb(82, 82, 82) 67%, rgb(130, 130, 130) 97%);
     overflow-x: hidden;
 }
 
@@ -72,7 +72,7 @@ main {
     flex-direction: column;
     margin-top: 7%;
     margin-left: 38%;
-    background: linear-gradient(180deg, #fc9637 0%, #ffb82b 0%, rgb(255, 203, 138) 100%);
+    background: linear-gradient(180deg, #000000 0%, #282828 0%, rgb(72, 72, 72) 100%);
     border: solid 3px #fff;
     width: 25vw;
     height: auto;
@@ -128,7 +128,7 @@ main {
 }
 
 button:hover{
-    background-color: #ffa930;
+    background-color: #000000;
     
 }
 
